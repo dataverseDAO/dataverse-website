@@ -8,50 +8,50 @@
 @font-face {
   font-family: 'Objectivity';
   font-weight: 300;
-  src: url("./fonts/objectivity.thin.otf");
+  src: url("./fonts/objectivity.thin.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'Objectivity';
   font-weight: 400;
-  src: url("./fonts/objectivity.light.otf");
+  src: url("./fonts/objectivity.light.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'Objectivity';
   font-weight: 500;
-  src: url("./fonts/objectivity.regular.otf");
+  src: url("./fonts/objectivity.regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'Objectivity';
   font-weight: 600;
-  src: url("./fonts/objectivity.medium.otf");
+  src: url("./fonts/objectivity.medium.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'Objectivity';
   font-weight: 700;
-  src: url("./fonts/objectivity.bold.otf");
+  src: url("./fonts/objectivity.bold.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'Objectivity';
   font-weight: 800;
-  src: url("./fonts/objectivity.extra-bold.otf");
+  src: url("./fonts/objectivity.extra-bold.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'Objectivity';
   font-weight: 900;
-  src: url("./fonts/objectivity.black.otf");
+  src: url("./fonts/objectivity.black.otf") format("opentype");
 }
 
 
 @font-face {
   font-family: 'Chillax';
   font-weight: 300;
-  src: url("./fonts/Chillax-Regular.otf");
+  src: url("./fonts/Chillax-Regular.otf") format("opentype");
 }
 
 

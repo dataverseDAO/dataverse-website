@@ -20,7 +20,7 @@ const Toolbar = ({ dark }: ToolbarProps) => {
 
                     <div className="flex flex-grow space-x-8 items-center justify-start">
                         <a href="/" className="hidden lg:block mr-5 transform hover:scale-105 transition-all duration-500 ease-in-out">
-                            <img src={"/Logos/Dataverse/color + light grey.svg"} className={`w-64`} />
+                            <img src={"/Logos/Dataverse/default.svg"} className={`w-64`} />
                         </a>
                     </div>
 
