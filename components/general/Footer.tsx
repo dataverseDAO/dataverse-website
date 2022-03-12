@@ -41,7 +41,7 @@ const Footer = () => {
             </div>
 
             <a href="/" className="w-full sm:w-1/2 mb-10 sm:mb-0 max-w-md">
-                <img src="/Logos/Dataverse/default.png" className="h-full" />
+                <img src="/Logos/Dataverse/default.png" className="" />
             </a>
 
 
