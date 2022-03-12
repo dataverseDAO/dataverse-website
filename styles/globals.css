@@ -51,7 +51,7 @@
 @font-face {
   font-family: 'Chillax';
   font-weight: 300;
-  src: url("./fonts/Chillax-Regular.otf") format("opentype");
+  src: url("./fonts/Chillax-Regular.ttf");
 }
 
 
@@ -89,5 +89,5 @@ h2 {
 }
 
 .highlight {
-  @apply font-semibold relative before:content-[""] before:absolute before:z-[-1] before:left-0 before:bottom-1 before:w-full before:h-3 before:bg-cyan-200
+  @apply font-semibold relative before:content-[""] before:absolute before:z-[-1] before:left-0 before:bottom-1 before:w-full before:h-3 before:bg-cyan-200 whitespace-nowrap
 }

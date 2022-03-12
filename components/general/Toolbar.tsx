@@ -12,7 +12,7 @@ const Toolbar = ({ dark }: ToolbarProps) => {
     const [open, setOpen] = useState(false)
 
     return (
-        <div className={`text-2xl absolute top-0 left-0 justify-center text-center w-full p-0 lg:p-3 flex z-50 backdrop-blur-md ${dark ? "text-white" : "text-black"}`}>
+        <div className={`text-2xl absolute top-0 left-0 justify-center text-center w-full p-0 lg:p-3 flex z-50 backdrop-blur-md`}>
 
             <div className="z-20 p-5 pr-5 lg:pr-0 xl:pr-5 w-full flex justify-between items-center font-medium">
 
@@ -20,7 +20,7 @@ const Toolbar = ({ dark }: ToolbarProps) => {
 
                     <div className="flex flex-grow space-x-8 items-center justify-start">
                         <a href="/" className="hidden lg:block mr-5 transform hover:scale-105 transition-all duration-500 ease-in-out">
-                            <img src={"/Logos/Dataverse/default.svg"} className={`w-64`} />
+                            <img src={"/Logos/Dataverse/default.png"} className={`w-64`} />
                         </a>
                     </div>
 

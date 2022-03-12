@@ -1,13 +1,13 @@
 module.exports = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
     extend: {
       fontFamily: {
-        "sans": ["Objectivity", "sans-serif"],
-        "logo": ["Chillax", "sans-serif"]
+        'sans': ['Objectivity', 'sans-serif'],
+        'logo': ['Chillax', 'sans-serif']
       },
       boxShadow: {
         'custom': '0 0px 50px 4px rgb(0 0 0 / 0.05), 0 4px 6px -4px rgb(0 0 0 / 0.1);'
