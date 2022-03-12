@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Manan Patel",
+    "position": "General Advisor",
+    "image": "/images/Team/manan.webp",
+    "linkedin": "https://www.linkedin.com/in/mananpatel7/",
+    "description": "Founder with 10+ years of experience in development and consulting services to Fortune 100 enterprises. Founding team member of Ocean Protocol. Blockchain Expert and Crypto thought leader.",
+    "twitter": "https://twitter.com/innoprenuer"
+  },
+  {
+    "name": "Nicolas Weber",
+    "position": "Founder, Ops, Tech, Awareness, Legal",
+    "image": "/images/Team/nicolas.webp",
+    "linkedin": "https://www.linkedin.com/in/nicolas97weber/",
+    "description": "On a mission to foster decentralization",
+    "twitter": "https://twitter.com/thenicolasweber"
+  },
+  {
+    "name": "Camilo Echeverri",
+    "position": "Co-founder, Ops, Tech, Awareness",
+    "image": "/images/Team/camilo-echeverri.webp",
+    "linkedin": "https://www.linkedin.com/in/caem2017/",
+    "description": "MetaFi Degen and DAO maximalist",
+    "twitter": "https://twitter.com/xtimesyequalsk"
+  },
+  {
+    "name": "Lukas Philipp",
+    "position": "Co-founder, Ops, Tech, Awareness",
+    "image": "/images/Team/lukas.webp",
+    "linkedin": "https://www.linkedin.com/in/lukasph/",
+    "twitter": "https://twitter.com/thelukasphilipp",
+    "description": "4+ years financial background in asset valuation and portfolio management. Web3 conceptioner and blockchain enthusiast."
+  },
+  {
+    "name": "Phil Thomsen",
+    "position": "Tech",
+    "image": "/images/Team/phil.webp",
+    "github": "https://github.com/DAC-PhilThomsen",
+    "linkedin": "https://www.linkedin.com/company/metagamehub-dao/mycompany/",
+    "description": "Blockchain Architect and Smart Contract Engineer with focus on EVM based systems."
+  },
+  {
+    "name": "Jean Feier",
+    "position": "Co-founder, Ops, Awareness",
+    "image": "/images/Team/jean.webp",
+    "linkedin": "https://www.linkedin.com/in/jeanine-feierfeil/",
+    "twitter": "https://twitter.com/JEANFEIER",
+    "description": "Defining vision, changing tradition and building with innovative minds. Driven to create products, experiences and art."
+  },
+  {
+    "name": "Santiago Hernandez",
+    "position": "Tech, AI & Data Science",
+    "image": "/images/Team/santiago.webp",
+    "linkedin": "https://www.linkedin.com/in/santiago-h-hernandez/",
+    "description": "Fullstack developer with focus on devops and web3 integration passionate about Fintech and high frequency trading. Background in algorithmic trading, cyber security and business development."
+  },
+  {
+    "name": "Sebastian Rocha",
+    "description": "Entrepreneur and DeFI enthusiast. Working on solutions for the frictionless use and movement of capital.",
+    "twitter": "https://twitter.com/RcBastian",
+    "linkedin": "https://www.linkedin.com/in/sebastian-rochac/",
+    "position": "ITRM",
+    "image": "/images/Team/sebastian.webp"
+  },
+  {
+    "name": "Camilo Alaguna",
+    "position": "Tech, AI & Data Science",
+    "image": "/images/Team/camilo.webp",
+    "github": "https://github.com/camilourd",
+    "linkedin": "https://www.linkedin.com/in/camilo-alaguna/",
+    "description": "Computer Scientist with strong experience in AI and entrepreneur. Passionate of solving problems using computational tools."
+  },
+  {
+    "name": "Oskar Latussek",
+    "position": "Tech",
+    "image": "/images/Team/oskar.webp",
+    "linkedin": "https://www.linkedin.com/in/oskar-latussek/",
+    "description": "Fullstack developer with focus on web3 integration and passion for UI/UX design. Background in financial economics and business development."
+  },
+  {
+    "name": "Andres Fonseca",
+    "position": "ITRM",
+    "description": "Tech entrepreneur, economist, science enthusiast and Matrix believer. Constantly searching new ways to solve problems with the use of AI.",
+    "twitter": "https://twitter.com/andresfonsecad",
+    "linkedin": "https://www.linkedin.com/in/andresfonsecad/",
+    "image": "/images/Team/andres.webp"
+  }
+]
